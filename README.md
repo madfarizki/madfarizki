@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning everything
 
-- 👨‍💻 My portofolio website [https://madfariz.my.id/](https://madfariz.my.id/)
+- 👨‍💻 My portofolio website **[https://madfariz.my.id/](https://madfariz.my.id/)**
 
 - 📫 How to reach me **madfarizz@gmail.com**
 
@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madfarizki&show_icons=true&locale=en&layout=compact" alt="madfarizki" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madfarizki&show_icons=true&locale=en" alt="madfarizki" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madfarizki&" alt="madfarizki" /></p>
